@@ -1,4 +1,4 @@
 {
-    "scriptId": "1NE4wTaY7hB7grEmlgOqnyFgraHEW8L_ffJtO7ZYO4z5cttyCrZU1pClU",
+    "scriptId": "${SCRIPT_ID}",
     "rootDir": "./src"
 }
