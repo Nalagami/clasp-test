@@ -31,3 +31,6 @@ jobs:
       - name: Deploy
         run: |
           clasp push
+      - name: Set Properties
+        run: |
+          clasp run setProperties
