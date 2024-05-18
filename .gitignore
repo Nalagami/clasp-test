@@ -1,2 +1,4 @@
 # gas用
 node_modules/
+creds.json
+.clasprc.json

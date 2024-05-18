@@ -1,4 +1,5 @@
 {
     "scriptId": "${SCRIPT_ID}",
-    "rootDir": "./src"
+    "rootDir": "./src",
+    "projectId": "67604525428"
 }
