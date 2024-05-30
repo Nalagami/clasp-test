@@ -1,0 +1,10 @@
+gcp のプロジェクトをコンソールから紐付ける
+clasp setting projectId プロジェクトID でローカルに紐づける
+clasp open --creds で認証する
+jsonをダウンロードする
+creds.json に名前を変えてプロジェクトホームにおいておく
+clasp login --creds creds.json
+Apps Scripts の実行権限を付与する
+https://console.cloud.google.com/apis/library/script.googleapis.com?authuser=0&project=gas-projects-423706
+ローカルで実行できるようになる
+
